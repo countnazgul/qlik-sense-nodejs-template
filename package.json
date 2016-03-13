@@ -1,0 +1,29 @@
+{
+  "name": "qlik-sense-nodejs-template",
+  "version": "0.0.1",
+  "description": "NodeJS project serving as template for Qlik Sense starting point",
+  "author": "Stefan Stoichev <stefan.stoichev@gmail.com>",
+  "repository": {
+  "type": "git",
+  "url": ""
+},
+  "bugs": {
+  "url": ""
+},
+  "keywords": [
+  "qlik",
+  "qlik sense",
+],
+  "dependencies": {
+    "async": "1.5.x",
+    "express": "4.13.x",
+    "body-parser": "1.15.x",
+    "morgan": "1.7.x",
+    "nedb": "1.8.x",
+    "qsocks": "2.1.x",
+    "qrs": "2.0.x",
+    "swig": "1.4.x",
+    "consolidate": "0.14.x"
+  },
+  "license": "MIT"
+}
