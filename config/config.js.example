@@ -4,9 +4,12 @@ config.main = {};
 config.qs = {};
 
 config.main.port = 3000;
-config.main.calledurl = 'http://localhost';
 
-config.qs.host = 'https://localhost:4242';
-config.qs.certpath = '';
+config.qs.host = 'localhot';
+config.qs.origin = 'localhost';
+config.qs.userDirectory = 'internal';
+config.qs.user = 'sa_repository';
+config.qs.certpath = 'C:\\CertStore\\localhost\\';
+config.qs.virtualproxy = '';
 
 module.exports = config;

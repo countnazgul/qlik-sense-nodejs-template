@@ -23,7 +23,8 @@
     "qsocks": "2.1.x",
     "qrs": "2.0.x",
     "swig": "1.4.x",
-    "consolidate": "0.14.x"
+    "consolidate": "0.14.x",
+    "request": "2.x.x"
   },
   "license": "MIT"
 }
